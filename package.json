@@ -1,0 +1,11 @@
+{
+  "name": "use-siwe",
+  "version": "0.1.0",
+  "main": "cli.js",
+  "repository": "git@github.com:bntzio/use-siwe.git",
+  "author": "Enrique Benitez",
+  "license": "UNLICENSED",
+  "bin": {
+    "use-siwe": "cli.js"
+  }
+}
